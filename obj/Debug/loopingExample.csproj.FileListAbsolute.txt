@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\obj\Debug\loopingExample.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\obj\Debug\loopingExample.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\obj\Debug\loopingExample.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\bin\Debug\loopingExample.exe.config
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\bin\Debug\loopingExample.exe
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\bin\Debug\loopingExample.pdb
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\obj\Debug\loopingExample.exe
+D:\Mphasis\.net\Day4\loopingExample\loopingExample\obj\Debug\loopingExample.pdb
